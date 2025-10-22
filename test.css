@@ -1,4 +1,4 @@
-section {
+section.header {
     background-color: lightgray;
     background-image: url('background.jpeg');
     color: black;
@@ -21,6 +21,10 @@ h2 {
 article {
     color: black;
 }
-article {
-    border: 
+section.problem1 {
+    color: black;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px;
+    background-color: white;
 }
