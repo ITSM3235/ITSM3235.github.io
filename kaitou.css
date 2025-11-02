@@ -1,0 +1,48 @@
+body {
+    background-color: lightblue;
+}
+section.header {
+    background-color: lightgray;
+    background-image: url('background.jpeg');
+    color: black;
+    border-radius: 30px;
+    padding-bottom: 1px;
+}
+h1 {
+    font-family: 'Arial', sans-serif;
+    font-size: 55px;
+    color: blue;
+    text-align: center;
+    padding: 25px;
+}
+a.headerlink {
+    text-decoration: none;
+}
+h2.subtitle {
+    font-size: 45px;
+    color: darkblue;
+    font-family: "Arial", sans-serif;
+    padding-left: 30px;
+}
+footer {
+    text-align: center;
+    font-size: 14px;
+    color: black;
+    margin-top: 20px;
+    background-color: lightblue;
+    padding: 10px;
+    font-family: 'Arial', sans-serif;
+    border-top: 2px solid black;
+}
+p.formula {
+    text-align: center;
+    margin-bottom: 1px
+}
+p.explanation {
+    margin-left: 50px;
+}
+section.answer {
+    border: 2px solid black;
+    margin-left: 70px;
+    margin-right: 70px;
+}
