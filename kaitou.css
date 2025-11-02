@@ -46,3 +46,13 @@ section.answer {
     margin-left: 70px;
     margin-right: 70px;
 }
+footer {
+    font-size: 14px;
+    color: black;
+    margin-top: 20px;
+    background-color: lightblue;
+    padding: 10px;
+    font-family: 'Arial', sans-serif;
+    border-top: 2px solid black;
+    text-align: center;
+}

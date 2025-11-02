@@ -27,15 +27,13 @@ h2 {
 article {
     color: black;
 }
-section.problem1 {
+section.problem {
     color: black;
     border: 2px solid black;
     margin: 20px;
     padding: 10px;
-    background-color: white;
 }
 footer {
-    text-align: center;
     font-size: 14px;
     color: black;
     margin-top: 20px;
@@ -43,4 +41,5 @@ footer {
     padding: 10px;
     font-family: 'Arial', sans-serif;
     border-top: 2px solid black;
+    text-align: center;
 }
