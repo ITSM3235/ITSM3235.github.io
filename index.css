@@ -3,7 +3,7 @@ body {
 }
 section.header {
     background-color: lightgray;
-    background-image: url('background.jpeg');
+    background-image: url("background.jpeg");
     color: black;
     border-radius: 30px;
     padding-bottom: 1px;
@@ -23,9 +23,6 @@ h2 {
     color: darkblue;
     font-family: 'Arial', sans-serif;
     text-align: left;
-}
-article {
-    color: black;
 }
 section.problem {
     color: black;
