@@ -34,17 +34,14 @@ footer {
     font-family: 'Arial', sans-serif;
     border-top: 2px solid black;
 }
-p.formula {
-    text-align: center;
-    margin-bottom: 1px
-}
 p.explanation {
-    margin-left: 50px;
+    margin-left: 30px;
+    text-align: left;
 }
 section.answer {
     border: 2px solid black;
-    margin-left: 70px;
-    margin-right: 70px;
+    margin-left: 60px;
+    margin-right: 60px;
 }
 footer {
     font-size: 14px;
